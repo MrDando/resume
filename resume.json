@@ -1,0 +1,126 @@
+{
+    "basics": {
+      "name": "Danijel Stanić",
+      "label": "Full Stack Web & Mobile Developer",
+      "email": "danijel.stanich@gmail.com",
+      "phone": "+385919287817",
+      "location": {
+        "city": "Samobor",
+        "country": "Croatia"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "url": "linkedin.com/in/stanic-danijel/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Prehnit & 3B Infra",
+        "position": "Web Developer",
+        "startDate": "2022-02",
+        "endDate": "2023-10",
+        "location": "Zagreb, Croatia",
+        "highlights": [
+          "Developed multiple GIS-focused web applications using React.js/TypeScript, Django, and PostgreSQL",
+          "Led development of municipal waste management web application",
+          "Led development team and coordinated project deliverables",
+          "Implemented interactive map features for recycling yards and waste dumping reporting",
+          "Maintained regular client communication and requirement gathering",
+          "Served as primary developer for cross-border mobile application for cyclists using React Native/Expo",
+          "Conceptualized and designed the user interface and overall app structure",
+          "Developed application functionality including offline-first architecture, map integration, and user interface",
+          "Managed complete deployment process using Expo, including app store submissions and publishing on both iOS and Android platforms"
+        ]
+      },
+      {
+        "name": "Ires Ekologija d.o.o",
+        "position": "Environmental Consultant",
+        "startDate": "2015-11",
+        "endDate": "2019-12",
+        "location": "Zagreb, Croatia",
+        "highlights": [
+          "Conducted environmental impact assessments and provided consulting services",
+          "Specialized in surface water, groundwater, and geodiversity impact analysis",
+          "Utilized GIS tools (QGIS) for environmental assessments and led internal GIS training programs"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Boot.dev",
+        "area": "Backend Development",
+        "studyType": "Program",
+        "startDate": "2024",
+        "endDate": "2024",
+        "courses": [
+          "Advanced topics in Go programming, DevOps practices, and system design",
+          "Deepened expertise in algorithms, data structures, and backend architecture"
+        ]
+      },
+      {
+        "institution": "The Odin Project",
+        "area": "Full Stack Development",
+        "studyType": "Online Course",
+        "startDate": "2021",
+        "endDate": "2022",
+        "courses": [
+          "Comprehensive full-stack curriculum focusing on JavaScript, React, Node.js, and MongoDB",
+          "Built multiple full-stack applications throughout the course"
+        ]
+      },
+      {
+        "institution": "Faculty of Mining, Geology and Petroleum Engineering, University of Zagreb",
+        "area": "Geological Engineering",
+        "studyType": "Master's Degree",
+        "startDate": "2007",
+        "endDate": "2015",
+        "courses": [
+          "Major in Environmental Science",
+          "Served as student teaching assistant for Introduction to Programming course for three years",
+          "Master's Thesis: Construction of Cross-Sections and 3D Model of the Southern Part of Island of Cres and Lošinj Using Application Move"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Frontend",
+        "keywords": ["React.js", "TypeScript", "React Native", "Expo"]
+      },
+      {
+        "name": "Backend",
+        "keywords": ["Python/Django", "Node.js/Express", "Go"]
+      },
+      {
+        "name": "Databases",
+        "keywords": ["PostgreSQL", "SQLite", "MongoDB"]
+      },
+      {
+        "name": "GIS/Mapping",
+        "keywords": ["OpenLayers", "react-native-maps"]
+      },
+      {
+        "name": "State Management",
+        "keywords": ["Context API", "Redux"]
+      },
+      {
+        "name": "UI Libraries",
+        "keywords": ["Material-UI", "React Native Paper", "NativeBase"]
+      },
+      {
+        "name": "DevOps",
+        "keywords": ["Linux", "Docker", "CI/CD", "GitHub Actions"]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Croatian",
+        "fluency": "Native"
+      },
+      {
+        "language": "English",
+        "fluency": "Fluent"
+      }
+    ]
+  }
