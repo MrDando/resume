@@ -9,6 +9,7 @@
   "author": "Danijel Stanić",
   "license": "ISC",
   "dependencies": {
-    "jsonresume-theme-elegant": "^1.16.1"
+    "jsonresume-theme-elegant": "^1.16.1",
+    "resume-cli": "^3.1.2"
   }
 }
