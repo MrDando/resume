@@ -1,0 +1,123 @@
+{
+    "basics": {
+      "name": "Danijel Stanić",
+      "label": "Full Stack Web & Mobile Developer",
+      "image": "https://avatars.githubusercontent.com/u/62402599?v=4",
+      "email": "danijel.stanich@gmail.com",
+      "phone": "+385919287817",
+      "summary": "Developer with 2 years of expertise in building complex web and mobile applications using modern JavaScript frameworks and Python/Django backend solutions. Experience in implementing GIS technologies and geospatial applications for web and mobile platforms. Background in environmental consulting brings unique analytical and problem-solving perspectives to software development projects.",
+      "location": {
+        "city": "Samobor",
+        "countryCode": "HR"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "stanic-danijel",
+          "url": "https://www.linkedin.com/in/stanic-danijel/"
+        },
+        {
+          "network": "GitHub",
+          "username": "MrDando",
+          "url": "https://github.com/MrDando"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Prehnit & 3B Infra",
+        "position": "Web Developer",
+        "startDate": "2022-02",
+        "endDate": "2023-10",
+        "location": "Zagreb, Croatia",
+        "summary": "Full-stack developer working on GIS-focused web applications and mobile development. Split time between internal projects at Prehnit and client work for 3B Infra's railway infrastructure management platform.",
+        "highlights": [
+          "Led development of municipal waste management application, managing team and client communication",
+          "Developed GIS-focused web applications using React.js/TypeScript and Django",
+          "Served as primary developer for cross-border cyclist mobile app, handling full project lifecycle from design to store deployment",
+          "Maintained and enhanced React Native mobile application for railway infrastructure management"
+        ]
+      },
+      {
+        "name": "Ires Ekologija d.o.o",
+        "position": "Environmental Consultant",
+        "startDate": "2015-11",
+        "endDate": "2019-12",
+        "location": "Zagreb, Croatia",
+        "summary": "Environmental consultant specializing in impact assessments with focus on water resources and geodiversity. Used GIS tools for spatial analysis and visualization of environmental data.",
+        "highlights": [
+          "Conducted environmental and strategic impact assessments for various development projects",
+          "Led internal GIS training programs and implemented GIS solutions for environmental analysis"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Boot.dev",
+        "area": "Backend Development",
+        "studyType": "Online Course",
+        "startDate": "2024-07",
+        "endDate": "2024-10",
+        "courses": [
+          "Go for Developers",
+          "Shells and Terminals",
+          "Docker",
+          "CI/CD"
+        ]
+      },
+      {
+        "institution": "The Odin Project",
+        "area": "Full Stack Development",
+        "studyType": "Online Course",
+        "startDate": "2020-06",
+        "endDate": "2021-11",
+        "courses": [
+          "Foundations",
+          "Intermediate HTML and CSS",
+          "Javascript",
+          "Advanced HTML and CSS",
+          "React",
+          "Databases",
+          "NodeJS"
+        ]
+      },
+      {
+        "institution": "Faculty of Mining, Geology and Petroleum Engineering, University of Zagreb",
+        "area": "Geological Engineering",
+        "studyType": "Master's Degree",
+        "startDate": "2007-09",
+        "endDate": "2015-02",
+        "courses": [
+          "Introduction to Computing and Programming",
+          "Geoinformatics"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Frontend",
+        "level": "Medior",
+        "keywords": ["HTML/JSX", "CSS", "Javascript/Typescript", "React", "React Native/Expo"]
+      },
+      {
+        "name": "Backend",
+        "level": "Medior",
+        "keywords": ["Python/Django", "Node.js/Express", "Go", "Postgres", "SQLite"]
+      },
+      {
+        "name": "DevOps",
+        "level": "Junior",
+        "keywords": ["Linux", "Docker", "GitHub Actions"]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Croatian",
+        "fluency": "Native Speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Fluent"
+      }
+    ]
+  }

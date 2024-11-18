@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Generated resume files
+*.pdf
+*.html
+
+# IDE specific files
+.vscode/

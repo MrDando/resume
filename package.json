@@ -1,0 +1,17 @@
+{
+  "name": "json-resume",
+  "version": "1.0.0",
+  "description": "Json Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danijel Stanić",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-macchiato-plus": "^1.0.3",
+    "jsonresume-theme-stackoverflow": "^2.0.2",
+    "resume-cli": "^3.1.2"
+  }
+}
