@@ -5,7 +5,7 @@
       "image": "https://avatars.githubusercontent.com/u/62402599?v=4",
       "email": "danijel.stanich@gmail.com",
       "phone": "+385919287817",
-      "summary": "Developer with 2 years of expertise in building complex web and mobile applications using modern JavaScript frameworks and Python/Django backend solutions. Experience in implementing GIS technologies and geospatial applications for web and mobile platforms. Background in environmental consulting brings unique analytical and problem-solving perspectives to software development projects.",
+      "summary": "I'm a full stack developer with few mobile apps under my belt. My professional career until now was mostly centered around implementation of GIS technologies in web and mobile applications. I also have significant experience writing technical documentation from my past experience as environmental consultant. Currently, focusing on deepening my knowledge of backend and devops practices. ",
       "location": {
         "city": "Samobor",
         "countryCode": "HR"
@@ -119,5 +119,48 @@
         "language": "English",
         "fluency": "Fluent"
       }
-    ]
+    ],
+    "projects": [
+      {
+        "name": "Jakovlje municipal waste management web application",
+        "startDate": "2023-06",
+        "endDate": "2023-10",
+        "company": "Prehnit",
+        "url": "https://otpad.jakovlje.hr/",
+        "highlights": [
+          "Led development team and coordinated project deliverables",
+          "Implemented interactive map features for recycling yards and waste dumping reporting",
+          "Maintained regular client communication and requirement gathering"
+        ],
+        "keywords": ["React", "Django", "PostgreSQL", "OpenLayers"]
+      },
+      {
+        "name": "Pitomača Pécs Outdoor",
+        "startDate": "2022-06",
+        "endDate": "2022-11",
+        "company": "Prehnit",
+        "url": "https://play.google.com/store/apps/details?id=hr.prehnit.pitomaca.eagle&hl=en",
+        "highlights": [
+          "Served as primary developer for cross-border mobile application for cyclists using React Native/Expo",
+          "Conceptualized and designed the user interface and overall app structure",
+          "Developed application functionality including offline-first architecture, map integration, and user interface",
+          "Managed complete deployment process using Expo, including app store submissions and publishing on both iOS and Android platforms"
+        ],
+        "keywords": ["React Native", "Expo", "SQLite", "react-native-maps"]
+      },
+      {
+        "name": "INFRALIFE®",
+        "startDate": "2022-5",
+        "endDate": "2023-10",
+        "company": "3BInfra",
+        "url": "https://www.3binfra.at/",
+        "highlights": [
+          "Contributed to INFRALIFE®, a Standard Asset Management Software for railway infrastructure operators",
+          "Maintained legacy frontend codebase",
+          "Developed and maintained React Native mobile application, implementing map features, job management functionality, and handling version upgrades",
+          "Participated in Agile development process including sprint planning, reviews, and retrospectives to drive product improvements"
+        ],
+        "keywords": ["React Native", "Expo", "Javascript", "PHP", "SQL"]
+      }
+      ]
   }
