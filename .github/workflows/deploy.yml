@@ -21,9 +21,20 @@ jobs:
       - name: Generate PDF
         run: npx resume-cli export resume.pdf --theme stackoverflow
 
+      - name: List files
+        run: ls -la
+
+      # Create a deployment directory
+      - name: Create deployment directory
+        run: |
+          mkdir deploy
+          cp resume.pdf deploy/
+          cp README.md deploy/
+          ls -la deploy
+
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
-          folder: .
+          folder: deploy
           clean: true
